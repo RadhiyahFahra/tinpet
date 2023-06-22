@@ -1,0 +1,1 @@
+This app means a lot for me. I took a role as a front end engineer in this project. This app called Tinpet. Tinpet is a matchmaking app just like another social media app, yet we affiliate features such as dating app in a common term. For those who wants to try this app, just click this link https://tinpet-finalproject.herokuapp.com/
